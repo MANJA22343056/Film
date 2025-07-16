@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Film</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="film_fragment">Film</string>
+    <string name="popular_fragment">Popular</string>
+    <string name="user_profile_fragment">Profile</string>
+</resources>
